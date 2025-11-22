@@ -1,0 +1,5 @@
+{
+  "name": "BOKI F1",
+  "description": "Real-time Formula 1 job aggregator using AI to fetch and filter the latest opportunities across the grid.",
+  "requestFramePermissions": []
+}
